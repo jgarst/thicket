@@ -80,6 +80,14 @@ Why Not
    - Probably not getting my data and workflow out in one piece.
 
 
+=========
+Resources
+=========
+
+- `Doug Hellman`_ blogs about his sphinx contributions
+
+
 .. _Obsidian: https://obsidian.md/
 .. _Roam: https://roamresearch.com/
 .. _`Labeled Section Transclusion`: https://www.mediawiki.org/wiki/Extension:Labeled_Section_Transclusion
+.. _`Doug Hellman`: https://doughellmann.com/
