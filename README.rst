@@ -19,19 +19,20 @@ I encourage you to investigate Obsidian_ or Roam_ if the idea is appealing to yo
 Plan
 ====
 
-- Define a custom role for links to documents.
+☑ Define a custom role for links to documents.
 
-    - https://doughellmann.com/blog/2010/05/09/defining-custom-roles-in-sphinx/
+☐ List all backlinks at the bottom of all documents.
 
-- List all backlinks at the bottom of all documents.
-- Create restrictions on how documents should be structured.  Enforce them with linters.
+☐ Create restrictions on how documents should be structured.  Enforce them with linters.
 
     - There is a daily-notes page named with today's date.
     - Referenced documents always exist.
 
-- Extend backlinks to support section level anchors.
-- Support transclusion and other poorly named ideas.
-- Create a graph visualization for notes.
+☐  Extend backlinks to support section level anchors.
+
+☐  Support transclusion and other poorly named ideas.
+
+☐  Create a graph visualization for notes.
 
 
 ===================
